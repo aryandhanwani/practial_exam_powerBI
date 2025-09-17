@@ -1,4 +1,4 @@
-<img width="1100" height="619" alt="Screenshot 2025-09-18 021926" src="https://github.com/user-attachments/assets/494fac2a-b3f5-4eaa-80f6-0529665c9504" /># 🎓 Student Performance Dashboard – Overview
+# 🎓 Student Performance Dashboard – Overview
 
 An **interactive Power BI dashboard** that provides a 360° view of student performance, attendance, and behavior insights.  
 This project was created as part of a practical exam to demonstrate **data modeling, visualization, and storytelling skills**.
